@@ -1,4 +1,4 @@
-/**
+/*
  * Number Sentence Parser
  *
  * Let G be the set of valid number sentences.
